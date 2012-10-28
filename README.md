@@ -19,7 +19,7 @@ From the Terminal, follow these steps:
 
 ### Manual
 
-See: [What Does The Install File Do?](#manual)
+See: [What Does The Install File Do?](#what-does-the-install-file-do)
 
 ## Usage
 
@@ -30,7 +30,7 @@ There are two ways to run gits:
 
 ## For the Initated
 
-### <a id="manual"></a>What Does The Install File Do?</h3>
+### What Does The Install File Do?</h3>
 
 Two things:
 
